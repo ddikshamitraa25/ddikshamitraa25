@@ -185,13 +185,6 @@ Also worked with:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ddikshamitraa25&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
 
 ---
 
